@@ -1,5 +1,5 @@
 # Rania El OUARDI  
-🎓 Élève-ingénieure | ESITH Casablanca — CPGE MP  
+🎓 Élève-ingénieure | ESITH Casablanca  
 ⚙️ Génie Industriel | Data · Lean · Optimisation des systèmes  
 📊 Python · Power BI · SQL · Lean Manufacturing  
 🗣️ Français (natif) · Anglais (courant) · Arabe (natif)  
