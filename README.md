@@ -1,7 +1,6 @@
-# Rania El OUARDI  
-🎓 Élève-ingénieure | ESITH Casablanca  
-⚙️ Génie Industriel | Data · Lean · Optimisation des systèmes  
-📊 Python · Power BI · SQL · Lean Manufacturing  
-🗣️ Français (natif) · Anglais (courant) · Arabe (natif)  
-🌍 Stage PFE 6 mois — France · Espagne · Europe · Fév 2027  
+# 👋 Rania | Ingénieure Industrielle en formation  
+🎓 ESITH Casablanca — Excellence Opérationnelle & Smart Manufacturing  
+📊 Python · Power BI · VSM · Lean Manufacturing  
+📌 Projets en cours — voir mes repos ci-dessous  
+🌍 Stage PFE  France · Espagne · Europe · Fév 2027
 📧 rania.elouardi.pro@gmail.com
